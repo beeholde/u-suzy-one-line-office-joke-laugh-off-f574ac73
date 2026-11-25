@@ -5,10 +5,7 @@ Writes the single joke line to /output/entry.txt.
 
 import os
 
-LINE = (
-    "I won the office raffle: a free lunch with the CEO, "
-    "redeemable during my unpaid break."
-)
+LINE = "I took a sick day and got forty messages asking if I was okay; the forty-first assigned me work."
 
 
 def main() -> None:
